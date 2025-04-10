@@ -43,10 +43,10 @@ A fully functional shopping website built using **React** and the **Fake Store A
 
 ## 📦 Installation
 
-
-cd react-shopping-website
-npm install
-npm run dev
+- npm create vite@latest shopping-site
+- cd react-shopping-website
+- npm install
+- npm run dev
 
 
 ## 🔐 Authentication
